@@ -38,7 +38,7 @@ function createSquare(){
 
     setTimeout(() => {
         square.remove();
-    }, 900);
+    }, 1500);
 }
 
 function startGame(){
